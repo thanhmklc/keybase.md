@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am thanhmklc on github.
+  * I am thanhmklc (https://keybase.io/thanhmklc) on keybase.
+  * I have a public key ASBv1s4PTJMQdsnosyCQLK4_aOAX9X3vycC7SsrjRqjhXQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206fd6ce0f4c931076c9e8b320902cae3f68e017f57defc9c0bb4acae346a8e15d0a",
+      "host": "keybase.io",
+      "kid": "01206fd6ce0f4c931076c9e8b320902cae3f68e017f57defc9c0bb4acae346a8e15d0a",
+      "uid": "5803166d3eeaa108fdf4a88ef36ed919",
+      "username": "thanhmklc"
+    },
+    "merkle_root": {
+      "ctime": 1568127171,
+      "hash": "b466264445fc736e1442aeac7eafb9938caed3d5a5a95c407f8be0b9a0ec4985f2e4e5e94a066ff40713441aec04c4761291f986c4af4165213c915fb684d6e6",
+      "hash_meta": "51617c97a00bb23fde85c5784b787d5ade71edaef88e8888a34680d04723ae2b",
+      "seqno": 6432451
+    },
+    "service": {
+      "entropy": "ApAW/iLzB4+TdNGQ6T+W6R08",
+      "name": "github",
+      "username": "thanhmklc"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568127240,
+  "expire_in": 504576000,
+  "prev": "c39a34d9b37ea221dd6003e025b1f2e4019624c1a6f67227a24b7411bfc5d158",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBv1s4PTJMQdsnosyCQLK4_aOAX9X3vycC7SsrjRqjhXQo](https://keybase.io/thanhmklc), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb9bOD0yTEHbJ6LMgkCyuP2jgF/V978nAu0rK40ao4V0Kp3BheWxvYWTESpcCBMQgw5o02bN+oiHdYAPgJbHy5AGWJMGm9nInokt0Eb/F0VjEIHILmQQpY8pouJnA3SNB5NQGR+EMlF32tiPrPfQyZIu0AgHCo3NpZ8RA/tt3v7hFPooMrtQnW2NdInC43bV/YG+KWOilWElMYGb7pnSFzYzooRT42UYv0/rXhK5PB8bfGQX4mb9+giJdA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEyhf/znDT9GLMGJ06nMrnyjZfqMAR72o5am4IFMHh3Oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/thanhmklc
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id thanhmklc
+```
